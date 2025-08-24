@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/google": "^2.0.8",
+    "@ai-sdk/openai": "^2.0.19",
+    "ai": "^5.0.22",
+    "dotenv": "^17.2.1",
+    "path": "^0.12.7",
+    "zod": "^3.25.76"
+  }
+}
