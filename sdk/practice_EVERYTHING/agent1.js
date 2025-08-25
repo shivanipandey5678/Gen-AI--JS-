@@ -5,6 +5,7 @@ import { google } from "@ai-sdk/google";
 import { generateText, generateObject } from 'ai';
 import { z } from 'zod';
 
+
 async function generateMarketingCopy(input) {
   const model =  google('gemini-1.5-flash');
 

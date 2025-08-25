@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@ai-sdk/openai": "^2.0.19",
+    "ai": "^5.0.22",
     "dotenv": "^17.2.1",
     "openai": "^5.13.1"
   }
